@@ -51,7 +51,8 @@ I love creating robust automation frameworks and ensuring software quality throu
 ## GitHub Stats
 
 <!-- Replace `yourusername` with your actual GitHub username -->
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqarland&show_icons=true&theme=radical)](https://github.com/waqarland)
+![Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqarland&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ## Connect With Me
 
