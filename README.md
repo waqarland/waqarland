@@ -16,37 +16,34 @@ I'm a results-driven **Software Test Engineer** with over **4+ years of experien
 
 ---
 
-### 💼 Professional Experience Highlights
-
-- **Lead Automation Framework Design**: Built hybrid frameworks from scratch using **Selenium & Python** (Page Object Model), reducing regression testing time by **40%**.
-- **Modern E2E Testing**: Transitioned legacy suites to **Playwright & TypeScript**, implementing parallel execution and visual regression testing.
-- **Cross-Platform Assurance**: Expertise in testing Responsive Web Apps across devices and browsers (Chrome, Firefox, Safari, Edge).
-- **API Validation**: Developed comprehensive API test suites using **Postman & Newman**, integrated into Jenkins pipelines for continuous feedback.
-
----
-
-### 🌟 Featured Projects
+### 🌟 Work Experience & Projects
 
 #### 🚀 [Buzzpotato](https://waqarland.github.io)
-*Lead Automation Engineer*
+**Lead Automation Engineer**
 - Spearheaded the **End-to-End (E2E) testing strategy** for a content generation platform using **Playwright**.
 - Developed robust test scenarios for complex user journeys, including "Generate from Link" and "Post Creation" flows.
 - Integrated **Supabase** for database validation and set up tiered deployment pipelines (Local -> Dev -> Prod).
 
 #### 🦷 [Smile Genius Dental](https://waqarland.github.io)
-*Lead QA - (Oct 2023 - Present)*
-- Architected and executed robust test automation frameworks using **Playwright** and **Cypress**, significantly reducing regression cycles.
-- Managed release cycles for a dental aligner management platform, ensuring HIPAA/GDPR compliance.
+**Lead QA & Automation Architect** | *(Oct 2023 - Present)*
+- Architected robust automation frameworks using **Playwright** and **Cypress**, reducing regression cycles.
+- Conducted comprehensive **Mobile App Testing (iOS/Android)** and cross-browser validation.
+- Managed release cycles, ensuring HIPAA/GDPR compliance and maintained rigorous traceability matrices throughout SDLC.
+- Led testing teams, delegating tasks and mentoring junior testers on automation best practices.
 
-#### 🚗 [Mercedes-Benz (Thailand & India)](https://waqarland.github.io)
-*Senior QA Engineer - (Nov 2021 - Sep 2022)*
-- Orchestrated end-to-end testing for critical automotive digital platforms and vehicle configurators.
-- Collaborated with international cross-functional teams in an **Agile** environment to drive SDLC quality.
+#### 🤖 [IBEX Global](https://waqarland.github.io)
+**Software Engineer - Tech** | *(Sep 2022 - Dec 2023)*
+- Developed scalable automation scripts using **Selenium & Python** for the ibex CX platform, serving clients like **Walmart, AT&T, Tesla, and SpaceX**.
+- Rigorously tested **AI & LLM Models** to optimize accuracy, precision, and customer sentiment analysis.
+- Implemented **Datadog** for automated smoke testing, achieving a **70% reduction** in manual effort.
+- Performed API Health Monitoring and integrated TestRail with CI/CD pipelines for real-time tracking.
 
-#### 🏦 [Allica Bank](https://waqarland.github.io)
-*Automation Specialist - (Nov 2021 - Sep 2022)*
-- Implemented rigorous security and functional testing protocols for fintech applications using **Cypress**.
-- Automated complex loan application workflows and financial modules.
+#### 🏢 [Netsol Technologies](https://waqarland.github.io)
+**SQA Engineer** | *(Nov 2021 - Sep 2022)*
+- **Key Projects**: Mercedes-Benz Financial Services (Thailand & India), Allica Bank (UK).
+- Orchestrated functional, regression, and system testing for mission-critical financial software modules.
+- Managed defect lifecycles via **Jira** and perform deep-dive root cause analysis.
+- Translated complex business specifications into comprehensive Test Plans and scenarios.
 
 ---
 
